@@ -5,4 +5,4 @@
 3. cd to folder-name
 4. run Xampp Apache & SQL
 
-Live demo here: https://cinema-booking-system.herokuapp.com/
+Live demo: [Click here](https://cinema-booking-system.herokuapp.com)
