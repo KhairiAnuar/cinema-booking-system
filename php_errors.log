@@ -1,0 +1,6 @@
+[06-May-2018 07:44:55 UTC] PHP Warning:  include_once(footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/movies/movies_blackpanther.php on line 77
+[06-May-2018 07:44:55 UTC] PHP Stack trace:
+[06-May-2018 07:44:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/movies/movies_blackpanther.php:0
+[06-May-2018 07:44:55 UTC] PHP Warning:  include_once(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/movies/movies_blackpanther.php on line 77
+[06-May-2018 07:44:55 UTC] PHP Stack trace:
+[06-May-2018 07:44:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/movies/movies_blackpanther.php:0
