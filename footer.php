@@ -33,6 +33,6 @@
           <br>
           <br>
           <div align="center">
-            &#169 Copyright 2018 Cinema Aurora Australia. All Rights Reserved
+            &#169 Copyright 2018 Khairi Anuar. All Rights Reserved
           </div>
       </div>
